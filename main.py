@@ -1,6 +1,7 @@
 # Artificial Intelligence for solving logic problems
 # Emulates a single perceptron that is configurable and trainable
 # to solve 2-dimensional separable problems (like AND, OR, NAND,...)
+# visualization of decision lines before and after learning
 # by Dr. Lutz Bellmann
 
 import matplotlib.pyplot as plt
